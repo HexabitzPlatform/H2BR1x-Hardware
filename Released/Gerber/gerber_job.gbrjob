@@ -1,11 +1,11 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2022-12-15T10:18:01Z",
+        "CreationDate": "2024-12-25T18:58:28Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
-            "Version": "9.6.2"
+            "Version": "9.6.1"
         },
         "Part": "Single"
     },
@@ -13,9 +13,9 @@
         "BoardThickness": 1.57,
         "LayerNumber": 2,
         "Name": {
-            "ProjectId": "H2BR10"
+            "ProjectId": "H2BR1"
         },
-        "Owner": "Obada Albasha <eng.obada.albasha@gmail.com>",
+        "Owner": "  <>",
         "Size": {
             "X": 34.64,
             "Y": 30
