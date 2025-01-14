@@ -224,7 +224,7 @@
 <text x="-8.016875" y="13.6525" size="1.9304" layer="25">C</text>
 <text x="10.06700625" y="8.77774375" size="1.9304" layer="22" font="vector" rot="SMR315" align="center">P2*</text>
 <text x="8.89" y="7.77875" size="1.9304" layer="21" font="vector" align="center">P2*</text>
-<text x="-3.571875" y="26.273125" size="2.1844" layer="26" distance="20" rot="MR180">.</text>
+<text x="-4.841875" y="26.431875" size="2.1844" layer="26" distance="20" rot="MR180">.</text>
 <text x="3.96875" y="11.43" size="1.27" layer="22" rot="MR0">*</text>
 <wire x1="4.7625" y1="16.03375" x2="4.28625" y2="16.03375" width="0.1524" layer="26"/>
 <wire x1="4.28625" y1="16.03375" x2="4.1275" y2="16.1925" width="0.1524" layer="26"/>
